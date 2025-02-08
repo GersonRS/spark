@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/GersonRS/spark/compare/v1.2.1...v1.2.2) (2025-02-08)
+
+
+### ⌨️ Code Refactoring
+
+* adjust workflows ([f399275](https://github.com/GersonRS/spark/commit/f39927566dd5dda2ea44d0b5aa40ed978bbeb713))
+
 ## [1.2.1](https://github.com/GersonRS/spark/compare/v1.2.0...v1.2.1) (2025-02-03)
 
 
