@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/GersonRS/spark/compare/v1.3.0...v1.4.0) (2025-03-25)
+
+
+### 🚀 New Features
+
+* add fsspec and gcsfs ([b171fc9](https://github.com/GersonRS/spark/commit/b171fc969ff6aee03453d4b0fb5722838c0f1023))
+* add fsspec and gcsfs ([cdc06cc](https://github.com/GersonRS/spark/commit/cdc06ccfca6c4533c007fd19daa2530ff86b2ce9))
+
 ## [1.3.0](https://github.com/GersonRS/spark/compare/v1.2.1...v1.3.0) (2025-03-25)
 
 
