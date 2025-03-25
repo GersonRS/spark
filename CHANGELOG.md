@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.3.0](https://github.com/GersonRS/spark/compare/v1.2.1...v1.3.0) (2025-03-25)
+
+
+### 🚀 New Features
+
+* add pandas ([da12ac9](https://github.com/GersonRS/spark/commit/da12ac9fed52cc287e9c890cbb1dacc7098f7db7))
+* add pandas ([e19a9b3](https://github.com/GersonRS/spark/commit/e19a9b3b3cdcc868b05ec9f5acf0c2707c5f483b))
+
+
+### ⌨️ Code Refactoring
+
+* adjust workflows ([7cc4fa4](https://github.com/GersonRS/spark/commit/7cc4fa489431e1e48a1dad6cf44159344ffb1787))
+* adjust workflows ([f399275](https://github.com/GersonRS/spark/commit/f39927566dd5dda2ea44d0b5aa40ed978bbeb713))
+
 ## [1.2.1](https://github.com/GersonRS/spark/compare/v1.2.0...v1.2.1) (2025-02-03)
 
 
