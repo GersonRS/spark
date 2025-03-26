@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.1](https://github.com/GersonRS/spark/compare/v1.4.0...v1.4.1) (2025-03-26)
+
+
+### 🔥 Bug Fixes
+
+* add s3fs ([59c1cf7](https://github.com/GersonRS/spark/commit/59c1cf7b72f8d8b28b1555d03d9a1edfc75f8485))
+* add s3fs ([c585a58](https://github.com/GersonRS/spark/commit/c585a586cad54e10c4cbc0735a974b502da9aaa2))
+
 ## [1.4.0](https://github.com/GersonRS/spark/compare/v1.3.0...v1.4.0) (2025-03-25)
 
 
