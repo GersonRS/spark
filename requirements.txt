@@ -3,3 +3,4 @@ pathlib
 pandas
 fsspec
 gcsfs
+s3fs
