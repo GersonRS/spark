@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/GersonRS/spark/compare/v1.4.1...v1.4.2) (2025-03-28)
+
+
+### ⌨️ Code Refactoring
+
+* change dockerfile ([cad0b3e](https://github.com/GersonRS/spark/commit/cad0b3ebb9eecadbd5fe32726f096483896418b8))
+
 ## [1.4.1](https://github.com/GersonRS/spark/compare/v1.4.0...v1.4.1) (2025-03-26)
 
 
